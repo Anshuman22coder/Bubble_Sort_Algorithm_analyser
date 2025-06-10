@@ -1,0 +1,116 @@
+.total{
+  display: flex;
+  align-items: end;
+}
+
+.material{
+  background-color: black;
+  display: flex;
+  align-items: flex-start;
+  height: 100%;
+  width:100%;
+  position: relative;
+}
+.material > div{
+  position: absolute;
+  top: 0;
+  transition: all 0.5s ease;
+}
+
+.box1{
+  height:50px;
+  width: 50px;
+  background-color: aliceblue;
+  border-color: aquamarine;
+  border:2px;
+text-align: center;
+ color: black;
+}
+.box3{
+  height:50px;
+  width: 50px;
+  background-color: aliceblue;
+  border-color: aquamarine;
+  border:2px;
+text-align: center;
+ color: black;
+}
+.box5{
+  height:50px;
+  width: 50px;
+  background-color: aliceblue;
+  border-color: aquamarine;
+  border:2px;
+text-align: center;
+ color: black;
+}
+.box7{
+  height:50px;
+  width: 50px;
+  background-color: aliceblue;
+  border-color: aquamarine;
+  border:2px;
+text-align: center;
+ color: black;
+}
+.box9{
+  height:50px;
+  width: 50px;
+  background-color: aliceblue;
+  border-color: aquamarine;
+  border:2px;
+text-align: center;
+ color: black;
+
+}
+
+.box0{
+  height:50px;
+  width: 50px;
+  background-color: rgb(33, 69, 101);
+  border-color: aquamarine;
+  border:2px;
+  text-align: center;
+  color: black;
+
+}
+.box2{
+  height:50px;
+  width: 50px;
+  background-color: rgb(33, 69, 101);
+  border-color: aquamarine;
+  border:2px;
+  text-align: center;
+   color: black;
+
+}
+.box4{
+  height:50px;
+  width: 50px;
+  background-color: rgb(33, 69, 101);
+  border-color: aquamarine;
+  border:2px;
+  text-align: center;
+   color: black;
+
+}
+.box6{
+  height:50px;
+  width: 50px;
+  background-color: rgb(33, 69, 101);
+  border-color: aquamarine;
+  border:2px;
+  text-align: center;
+   color: black;
+
+}
+.box8{
+  height:50px;
+  width: 50px;
+  background-color: rgb(33, 69, 101);
+  border-color: aquamarine;
+  border:2px;
+  text-align: center;
+   color: black;
+
+}
